@@ -33,6 +33,22 @@
                     -6.787154
                 ]
             }
+        } },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mbagala Hospital",
+                "address": "Temeke",
+                "city": "Dar es Salaam",
+                
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   39.235750,
+                    -6.878313
+                ]
+            }
         },
         {
             "type": "Feature",
